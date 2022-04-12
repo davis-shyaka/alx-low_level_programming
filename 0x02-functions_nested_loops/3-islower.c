@@ -1,4 +1,4 @@
-#include "alx.h"
+#include "main.h"
 
 /**
  * _islower(int c) - checks for lowercase
