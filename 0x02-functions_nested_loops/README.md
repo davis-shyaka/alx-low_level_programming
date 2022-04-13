@@ -1,5 +1,5 @@
 0x02. C - Functions, nested loops
-0-putchar.c: program that prints Holberton, followed by a new line
+0-putchar.c: program that prints _putchar, followed by a new line
 1-alphabet.c: function that prints the alphabet, in lowercase, followed by a new line
 2-print_alphabet_x10.c: function that prints 10 times the alphabet, in lowercase, followed by a new line
 3-islower.c: function that checks for lowercase character
@@ -15,3 +15,4 @@
 101-natural.c: program that computes and prints the sum of all the multiples of 3 or 5 below 1024
 102-fibonacci.c: prints the first 50 Fibonacci numbers, starting with 1 and 2
 103-fibonacci.c: prints the sum of all even Fibonacci numbers below 4,000,000
+104-fibonacci.c: prints the first 98 Fibonacci numbers, starting with 1 and 2
