@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <time.h>
-#include <main.h>
 
 /*
  * main - prints a random number
