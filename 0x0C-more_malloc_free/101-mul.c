@@ -9,17 +9,17 @@
  *Return: returns
  */
 
-int mul(int argc, unsigned int *argv)
+int mul(int num1, unsigned int *num2)
 {
-if (argc > 2)
+if (num1 > 2)
 printf("Error\n");
 exit(98);
 
-if (argv[0]/10 != 0 || argv[1]/10 != 0)
+if (num1[0]/10 != 0 || num2[1]/10 != 0)
 printf("Error\n");
 exit(98);
 
-int ans = argv[0] * argv[1];
+int ans = num1[0] * num2[1];
 printf(ans);
 
 return (0);
